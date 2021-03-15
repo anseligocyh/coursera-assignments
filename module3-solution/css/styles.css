@@ -1,0 +1,76 @@
+.myCards {
+    padding: 20px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+
+#card1 {
+    background-color: #8898df;
+}
+
+#card2 {
+    background-color: #fdb59f;
+}
+
+#card3 {
+    background-color: #bcffda;
+}
+
+.ourMenu {
+    text-align: center;
+    font-weight: bold;
+    font-size: 46px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+#myHeader {
+    background-color: #ffe07c;
+    border: 0;
+}
+
+.tlTitle {
+    color: #000000;
+    font-weight: bolder;
+    font-size: 28px;
+}
+
+.cardTitle {
+    color: #000000;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+@media (max-width: 767px) {
+    .myList {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        border: 2px solid black;
+    }
+    ul>li {
+        border: 2px solid black;
+    }
+}
+
+.myMenu {
+    border: 0px;
+}
+
+#nav-list a {
+    color: #690027;
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background: #ffffff;
+}
+
+.navbar-header button.navbar-toggle {
+    border: 1px solid #53001f;
+}
+
+.navbar-header .icon-bar {
+    border: 1px solid #5ed464;
+}
